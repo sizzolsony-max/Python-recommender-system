@@ -71,7 +71,7 @@ http://localhost:8501
 ## 🌐 Live Deployment
 
 🔗 **Live App:**  
-👉 https://YOUR-STREAMLIT-LINK-HERE
+👉 https://python-recommender-system-m3yj8gew6cmd37jgna7xq9.streamlit.app/#product-recommendation-system
 
 🔗 **GitHub Repository:**  
 👉 https://github.com/sizzolsony-max/Python-recommender-system
