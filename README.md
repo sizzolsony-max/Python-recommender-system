@@ -76,8 +76,6 @@ http://localhost:8501
 🔗 **GitHub Repository:**  
 👉 https://github.com/sizzolsony-max/Python-recommender-system
 
-> Replace the placeholders above after deployment.
-
 ---
 
 ## 🧩 Example Output
@@ -86,20 +84,9 @@ Type a user ID and the app will recommend items that similar users liked but the
 
 ---
 
-## 💡 Future Enhancements
-
-🔹 Add real-world datasets (Amazon, Flipkart, Movielens etc.)  
-🔹 Switch to item-to-item recommendation  
-🔹 Add filtering based on category, rating, price, etc.  
-🔹 Deploy on Streamlit Cloud with public link  
-
----
-
 ## 👨‍💻 Author
 
-**Your Name – Python & Machine Learning Developer**  
+Sijol soni sahoo – Python & Machine Learning Developer**  
 📌 Open to internships and full-time roles in Data / Python / AI  
 
 ---
-
-⭐ If you like this project, please give the repository a star — it motivates me to build more!
